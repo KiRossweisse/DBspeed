@@ -12,4 +12,4 @@ The purpose of this project is to compare each database's speed by giving same q
 
 The results can be seen in MS Word file "DB_Report"
 
-Each folder contains a code for each database corresponding to the name of the folder
+Each folder contains a code for each database corresponding to the name of the folder. The code contains query which can be changed.
